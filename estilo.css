@@ -1,0 +1,21 @@
+body {
+ 
+    background-image: url("https://previews.123rf.com/images/pcanzo/pcanzo1309/pcanzo130900033/21960098-un-vector-de-dibujos-animados-que-representa-un-marco-horizontal-de-comida-r%C3%A1pida-%C3%BAtil-para-los-men%C3%BA.jpg");
+  }
+  H1 {
+    text-align: center;
+    color : red;
+  }
+  
+  H2 {
+    TEXT-ALIGN:CENTER;
+  }
+  .menu{
+    float: right;
+
+    margin:  0px;
+    padding: 0px;
+  }
+  footer {
+    text-align:center;
+  }
