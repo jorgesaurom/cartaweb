@@ -11,11 +11,28 @@ body {
     TEXT-ALIGN:CENTER;
   }
   .menu{
-    float: right;
+    float: center;
+    margin: 0px 50px 0px;
+    padding: 0px 50px 0px;
 
-    margin:  0px;
-    padding: 0px;
   }
-  footer {
+  img{
+    float: left;
+    margin: 0px 50px 0px;
+    padding: 0px 50px 0px;
+  }
+  .parrafo {
     text-align:center;
+    float: center;
   }
+  .imgfooter {
+float: left;
+
+  }
+.imgfooter2{
+  float: right;
+  
+}
+
+
+ 
